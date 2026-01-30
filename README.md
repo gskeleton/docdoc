@@ -10,3 +10,5 @@ random support
 ![doc](https://raw.githubusercontent.com/gskeleton/docdoc/refs/heads/main/op.png)
 5. -
 ![doc](https://raw.githubusercontent.com/gskeleton/docdoc/refs/heads/main/sv.png)
+6. -
+![doc](https://raw.githubusercontent.com/gskeleton/docdoc/refs/heads/main/sr.png)
